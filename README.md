@@ -20,5 +20,5 @@
   </a>
 </p>
 
-Mobile App of Memory Recall Application, where the user will be able to add texts, photos, and videos of significant events in their life to a timeline, organized by month and year. Developed in NLW 12 by Rocketseat.
+Web App of Memory Recall Application, where the user will be able to add texts, photos, and videos of significant events in their life to a timeline, organized by month and year. Developed in NLW 12 by Rocketseat.
 
